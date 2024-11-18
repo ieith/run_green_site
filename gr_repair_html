@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="green_run.css">
+        <title>Running Repairs</title>
+    </head>
+    <body>
+        <h1>Repairing Gear</h1>
+        <h2>Jacket Zipper</h2>
+            <p>
+                You've got a banging waterproof jacket. It keeps you dry in the rain, it breathes well. It's confortable and doesn't rustle like a crisp packet....then the zipper stops zipping...
+                <br>
+                <img class="zip ain't zipping" src="C:\Users\Dewi\Pictures\broke_zip.jpg" width="200">
+                <br><br>
+                Is it time for a new jacket? I reckon maybe not.
+                <h5>Fixing it</h5> 
+                I made a <a href="https://www.youtube.com/@dewi_runs">YouTube</a> for this, but it's actually pretty easy. The cost of my repair worked out at around 50p and 15 minutes of my time.
+                <h5>Steps</h5> 
+                This is basically it: 
+                <ul>
+                    <li>Firstly, remove the top stopper;</li> 
+                    <img class="top-stopper" src="C:\Users\Dewi\Pictures\top_stop.jpg" width="200">
+
+                    <li>Secondly, run the old zip off the now unstoppered top;</li>
+                    <li>Thirdly, run the new zip onto the unstoppered top;</li>
+                    <li>Finally, stick a new top stopper on and away you go.</li>
+                </ul>
+            </p>
+
+        <footer>
+            <a href="https://www.instagram.com/dewi_runs/" >IG</a>
+            <br>
+            <a href="https://www.tiktok.com/@dewi_runs" >TikTok</a>
+            <br>
+            <a href="https://www.youtube.com/@dewi_runs" >YouTube</a>
+        </footer>
+    </body>
+</html>
