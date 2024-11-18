@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="green_run.css">
+        <title>Running Greener</title>
+    </head>
+    <body>
+        <img class="front-page" src="C:\Users\Dewi\Pictures\DH2.png" width="200">
+        <h1>Seeking a More Environmental Way to Run</h1>
+        <h2>Intro</h2>
+            <p>
+                As time has gone on, I have found myself increasingly inclined towards minimising my environmental impact. Unfortunately, I am also a runner. This means trainers, tshirts, transportation, technical doodads and all the other bumf and paraphernalia that comes with it. Or does it? Do we need all this stuff? Does being a contemporary runner mean being a consumerist runner? Do I need to buy 3 pairs of polarised lenses and change my shoes every 500 miles or whatever? This website is my attempt to answer that question.
+                <br><br>
+                <h5>About me</h5> 
+                I am middle-aged, overweight, vegetarian, a run leader, a trail leader and a member of <a href="https://thegreenrunners.com">The Green Runners</a>. I run long distances not very fast, usually with a decent amount of elevation. My running is not necessarily "running".
+                <h5>About this site</h5> 
+                This sites serves a threefold purpose: 
+                <ul>
+                    <li>Firstly, it is to document my exploration in increasing my sustainability as a runner and serving as a resource for those on the same journey (sharing knowledge is a key piece in my personal code);</li> 
+                    <li>Secondly, as part of my Green Runner's pledge I vowed to be overt in flying the flag (which I am doing through this site)</li>
+                    <li>Finally, it allows me to work on my web development skills in a way that actually means something to me.</li>
+                </ul>
+            </p>
+
+        <footer>
+            <a href="https://www.instagram.com/dewi_runs/" >IG</a>
+            <br>
+            <a href="https://www.tiktok.com/@dewi_runs" >TikTok</a>
+            <br>
+            <a href="https://www.youtube.com/@dewi_runs?app=desktop" >YouTube</a>
+        </footer>
+    </body>
+</html>
