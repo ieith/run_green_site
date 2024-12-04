@@ -1,5 +1,24 @@
-body { 
-    color: white;
+.headFoot {
+    display: block;
+    background-color: black;
+    width: 300px;
+    border: medium solid goldenrod;
+    padding: 50px;
+    margin: 20px;
+    float: center;
+    box-sizing: border-box;
+}
+
+.major { 
+    color: rgb(219, 219, 117);
     background-color: slategray;
     width:fit-content;
-}
+    box-sizing: content-box;
+}	
+
+.minor { 
+    color: rgb(219, 219, 117);
+    background-color: slategray;
+    width:fit-content;
+    box-sizing: content-box;
+}	
