@@ -1,0 +1,5 @@
+Lessons learned
+
+float: left on the CSS made the site formatting a bit iffy. Changed to center.
+
+.htaccess file created and killed website. Used a different ftp client to access and delete (because net2ftp would not allow me).
