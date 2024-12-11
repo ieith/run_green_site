@@ -15,7 +15,7 @@
     width:fit-content;
     box-sizing: content-box;
     background-image: url("/img/DW.jpg");
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-size: 100%;
 }	
 
