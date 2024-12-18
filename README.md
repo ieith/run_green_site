@@ -7,4 +7,8 @@ Started building a website relating to being a greener runner; aiming to get a b
 Currently it's pretty dull html with little styling and no interactivity, but aiming to change that.
 
 ### Technologies
-Mostly HTML and CSS, with a smattering of JS. Also using it as an opportunity to do more with FTP, Git and GitHub, as well as domain management.
+Mostly **HTML** and **CSS**, with a smattering of *JS*. Also using it as an opportunity to do more with: 
+- FTP, 
+- Git,
+- GitHub
+- domain management.
