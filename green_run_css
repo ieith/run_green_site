@@ -1,12 +1,12 @@
 .headFoot {
     display: block;
     background-color: black;
-    width: 300px;
+    width: auto;
     border: medium solid goldenrod;
     padding: 50px;
     float: center;
     box-sizing: border-box;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .major { 
