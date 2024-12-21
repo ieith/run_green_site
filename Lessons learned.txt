@@ -3,3 +3,5 @@ Lessons learned
 float: left on the CSS made the site formatting a bit iffy. Changed to center.
 
 .htaccess file created and killed website. Used a different ftp client to access and delete (because net2ftp would not allow me).
+
+Adding in semantic html (nav, main, sections, etc) allows more fine-grained usage of CSS whilst also making html more readable (and thus more likely to interpret accurately) for browsers.
