@@ -1,4 +1,4 @@
-Lessons learned
+# <ins>Lessons learned</ins>
 
 float: left on the CSS made the site formatting a bit iffy. Changed to center.
 
@@ -6,7 +6,7 @@ float: left on the CSS made the site formatting a bit iffy. Changed to center.
 
 Adding in semantic html (nav, main, sections, etc) allows more fine-grained usage of CSS whilst also making html more readable (and thus more likely to interpret accurately) for browsers.
 
-**SEMANTIC HTML**
+## **SEMANTIC HTML**
 
 - header, nav , main and footer create the basic structure of the webpage.
 - section defines elements in a document, such as chapters, headings, or any other area of the document with the same theme.
