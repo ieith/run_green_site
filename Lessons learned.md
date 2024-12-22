@@ -15,3 +15,7 @@ Adding in semantic html (nav, main, sections, etc) allows more fine-grained usag
 - figure encapsulates all types of media.
 - figcaption is used to describe the media in figure.
 - video, embed, and audio elements are used for media files
+
+## <ins>Editing in real time</ins>
+Using Dev tools on the browser, we can adjust the source code for a given element by right clicking and choosing inspect (diff sheets can be found on source tab). The changes are shown in the browser but the seesion is local and temp so changes are not perpetual.
+This means changes can be made but any screw ups aren't permanent. Copy what you like to add to the proper docs later 🙌
