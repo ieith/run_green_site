@@ -1,13 +1,24 @@
 .headFoot {
-    display: block;
-    background-color: black;
-    width: auto;
+    display: table;
+    background-color: #376437;
+    width: fit-content; /*this fits my blocks creating the illusion of justified*/
     border: medium solid goldenrod;
-    padding: 50px;
-    float: center;
+    padding: 0px;
     box-sizing: border-box;
     font-size: 20px;
+    margin:auto;
 }
+
+nav li {
+    display: table-cell
+}
+
+/* this sets the nav list elements in to padded blocks*/
+li a {
+    padding: 30px 30px;
+    display: block;
+}
+
 
 .major { 
     color: yellow;
@@ -19,13 +30,14 @@
     background-size: 100%;
 }	
 
+
+
 .minor { 
     color: rgb(219, 219, 117);
     background-color: slategray;
     width:fit-content;
     box-sizing: content-box;
 }	
-
 
 .front-page {
     width: 200px;
